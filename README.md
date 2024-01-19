@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @singhkailash9
--  Excels in **Full Stack Web development** and Computer Programming.
--  Have good knowledge of Python and C++.
+# 👋 Hi, I’m [@singhkailash9](https://github.com/singhkailash9)
+
+### 🚀 About Me
+-  I'm a **Full Stack Web Developer**. I have knowledge of C++ and Python as well.
 -  Did B.Tech from Atharva College of Engineering.
 -  Currently learning DSA.
 
-<!---
-singhkailash9/singhkailash9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠 Web Development Skills
+-  Javascript, HTML, CSS
+-  React
+-  Node, Express
+-  SQL, PostgreSQL, Mongo
+-  Bootstrap, Tailwind
+
+### More Info
+- I'm currently learning Data Structures and Algorithms.
+
