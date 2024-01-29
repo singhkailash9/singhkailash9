@@ -9,7 +9,7 @@
 -  Javascript, HTML, CSS
 -  React
 -  Node, Express
--  SQL, PostgreSQL, Mongo
+-  SQL, Mongo
 -  Bootstrap, Tailwind
 
 ### More Info
