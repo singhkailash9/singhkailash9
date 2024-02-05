@@ -8,7 +8,7 @@
 ### 🛠 Web Development Skills
 -  Javascript, HTML, CSS
 -  React
--  Node, Express
+-  Node, Express, Flask
 -  SQL, Mongo
 -  Bootstrap, Tailwind
 
