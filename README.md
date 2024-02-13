@@ -12,6 +12,11 @@
 -  SQL, Mongo
 -  Bootstrap, Tailwind
 
+### Additional Skills
+-  Version Control (Git)
+-  Linux OS
+-  MS Office
+
 ### More Info
 - I'm currently learning Data Structures and Algorithms.
 
