@@ -21,4 +21,4 @@
 - Interested in emerging ML and AI technologies.
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkailash9&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkailash9&layout=donut&theme=dark)
