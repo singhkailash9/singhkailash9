@@ -3,11 +3,10 @@
 ### 🚀 About Me
 -  I'm a **Full Stack Web Developer**. I have knowledge of C++ and Python as well.
 -  Did B.Tech from Atharva College of Engineering.
--  Currently learning DSA.
 
 ### 🛠 Web Development Skills
 -  Javascript, HTML, CSS
--  React
+-  React, TypeScript
 -  Node, Express, Flask
 -  SQL, Mongo
 -  Bootstrap, Tailwind
@@ -20,3 +19,6 @@
 ### More Info
 - I'm currently learning Data Structures and Algorithms.
 - Interested in emerging ML and AI technologies.
+
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkailash9&layout=donut)
