@@ -18,6 +18,7 @@
 
 ### More Info
 - Interested in emerging ML and AI technologies.
+- Learning Data Structures and Algorithms.
 
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singhkailash9&layout=donut&theme=dark)
