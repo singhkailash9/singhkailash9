@@ -1,9 +1,10 @@
 <div align="center">
 
 # Kailash Singh
-### Full Stack Developer · MERN Stack · Python · C++
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://singhkailash9.github.io/portfolio-react/)
+### Full Stack Developer &nbsp;·&nbsp; MERN Stack &nbsp;·&nbsp; Python &nbsp;·&nbsp; C++
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://singhkailash9.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-singh-725a10232/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhkailash.sk9@gmail.com)
 
@@ -11,27 +12,27 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
-Full Stack Web Developer with **1 year of professional experience** at Lumina Datamatics, where I worked in an e-commerce data environment handling product listings, quality audits, and team support on Amazon-scale data pipelines.
+Full Stack Developer with **1 year of professional experience** at Lumina Datamatics, building end-to-end web applications using the MERN stack, REST APIs, and real-time systems. I have a track record of delivering clean, maintainable code across both frontend and backend.
 
-I build end-to-end web applications using the **MERN stack**, REST APIs, and responsive UI — and I'm actively looking for my next opportunity.
-
-- 🌍 Based in **Virar, Mumbai, Maharashtra**
-- 🎓 B.E. in Electronics & Telecommunication — **Atharva College of Engineering** (CGPA: 8.82)
-- 🔭 Currently sharpening skills in **DSA** and exploring **ML/AI**
-- 💼 Open to **Full Stack / Frontend / Backend Developer** roles
+| | |
+|---|---|
+| **Location** | Virar, Mumbai, Maharashtra |
+| **Education** | B.E. Electronics & Telecommunication — Atharva College of Engineering (CGPA: 8.82) |
+| **Currently** | Sharpening DSA skills & exploring ML/AI |
+| **Open to** | Full Stack / Frontend / Backend Developer roles |
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Frontend**
 
@@ -45,6 +46,7 @@ I build end-to-end web applications using the **MERN stack**, REST APIs, and res
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -58,48 +60,75 @@ I build end-to-end web applications using the **MERN stack**, REST APIs, and res
 
 ---
 
-## 💼 Experience
+## Experience
 
-**E-commerce Associate — Lumina Datamatics** *(Feb 2025 – Mar 2026)*
+### E-commerce Associate — Lumina Datamatics
+`Feb 2025 – Mar 2026`
 
 - Processed and matched product data with Amazon listings using internal tools
 - Identified alternative product matches based on critical attributes and availability
-- Performed quality audits on processed files to ensure accuracy
+- Performed quality audits on processed files to maintain data accuracy
 - Provided floor support to team members and helped manage production workflows
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
-### 📝 [Blog Platform](https://github.com/singhkailash9/blog-site-react) — MERN Stack
-Full stack blogging website where users can create, edit, and delete posts. Built with React frontend, Node/Express backend, and MongoDB database with REST API architecture.
+### 💬 Real-Time Chat App — MERN + Socket.io
+> Full stack real-time chat application with a decoupled client-server architecture. Features live messaging powered by WebSockets, persistent message storage in MongoDB, and a responsive React frontend.
 
-`React` `Node.js` `Express` `MongoDB` `REST API`
+**Server:** [singhkailash9/chat-app-server](https://github.com/singhkailash9/chat-app-server) &nbsp;|&nbsp; **Client:** [singhkailash9/chat-app-client](https://github.com/singhkailash9/chat-app-client)
+
+`React` `Node.js` `Express` `Socket.io` `MongoDB` `REST API`
 
 ---
 
-### 📒 [Keeper App](https://github.com/singhkailash9/keeper-app-react) — MERN Stack
-Google Keep-inspired notes app with full MERN stack implementation. Supports adding and removing notes with a clean UI.
+### 📚 MangaShelf — Manga Library & Tracker
+> A web application for manga enthusiasts to discover, organize, and track their reading lists. Supports browsing titles, managing personal shelves, and tracking read progress.
+
+[singhkailash9/mangashelf](https://github.com/singhkailash9/mangashelf)
 
 `React` `Node.js` `Express` `MongoDB`
 
 ---
 
-### 🤖 [Discord Bot](https://github.com/singhkailash9/nodot-discord-bot) — Node.js
-A Discord bot with command parsing, external API integration, and automated server responses.
+### 📝 Blog Platform — MERN Stack
+> Full stack blogging platform where users can create, edit, and delete posts with a clean, distraction-free writing experience. Built on a REST API architecture with a React frontend and MongoDB persistence.
+
+[singhkailash9/blog-site-react](https://github.com/singhkailash9/blog-site-react)
+
+`React` `Node.js` `Express` `MongoDB` `REST API`
+
+---
+
+### 📒 Keeper App — Notes Manager
+> Google Keep-inspired notes application with full MERN stack implementation. Supports creating and deleting notes with a minimal, responsive UI.
+
+[singhkailash9/keeper-app-react](https://github.com/singhkailash9/keeper-app-react)
+
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+### 🤖 Discord Bot — Node.js
+> A feature-rich Discord bot with command parsing, external API integration, and automated server responses.
+
+[singhkailash9/nodot-discord-bot](https://github.com/singhkailash9/nodot-discord-bot)
 
 `Node.js` `Discord.js` `REST APIs`
 
 ---
 
-### 🐍 [Flask REST API](https://github.com/singhkailash9/flask-rest-api) — Python
-A Python REST API built with Flask, supporting full CRUD operations.
+### 🐍 Flask REST API — Python
+> A Python REST API built with Flask, supporting full CRUD operations with clean endpoint design.
+
+[singhkailash9/flask-rest-api](https://github.com/singhkailash9/flask-rest-api)
 
 `Python` `Flask` `REST API`
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -111,6 +140,6 @@ A Python REST API built with Flask, supporting full CRUD operations.
 
 <div align="center">
 
-*Thanks for visiting! Feel free to check out my repos or reach out.*
+*Open to opportunities — feel free to explore my repositories or reach out via [email](mailto:singhkailash.sk9@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kailash-singh-725a10232/).*
 
 </div>
