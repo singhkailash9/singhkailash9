@@ -2,7 +2,7 @@
 
 # Kailash Singh
 
-### Full Stack Developer &nbsp;·&nbsp; MERN Stack &nbsp;·&nbsp; AI Integration 
+### Shopify Developer &nbsp;·&nbsp; E-commerce & Technical SEO &nbsp;·&nbsp; MERN Stack
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://singhkailash9.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kailash-singh-725a10232/)
@@ -14,18 +14,28 @@
 
 ## About Me
 
-Full Stack Developer with **1 year of production experience** bridging scalable web applications with Large Language Models. I specialize in the MERN stack and building intelligent Retrieval-Augmented Generation (RAG) pipelines. I have a track record of delivering clean, maintainable code across both frontend architecture and complex backend data integrations.
+Web developer working on two live Shopify stores: theme code, technical SEO, tracking and catalog. On the side I build full-stack and AI projects with the MERN stack and LLM APIs.
 
 | | |
 |---|---|
 | **Location** | Mumbai, Maharashtra (Open to Remote) |
 | **Education** | B.E. Electronics & Telecommunication — Atharva College of Engineering (CGPA: 8.82) |
-| **Currently** | Optimizing RAG pipelines & sharpening advanced DSA |
-| **Open to** | Full Stack / AI Integration / Backend Developer roles |
+| **Currently** | Sole developer for [phoneantics.com](https://phoneantics.com) and [toyjoyantics.com](https://toyjoyantics.com) at Casubhoy Enterprises |
+| **Focus** | Shopify / E-commerce / Front End / Full Stack development |
 
 ---
 
 ## Tech Stack
+
+**E-commerce & SEO**
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-004999?style=flat-square)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Tag_Manager-246FDB?style=flat-square&logo=googletagmanager&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Pixel_+_CAPI-0467DF?style=flat-square&logo=meta&logoColor=white)
+![JSON-LD](https://img.shields.io/badge/JSON--LD_Schema-0C479D?style=flat-square)
 
 **Languages & AI**
 
@@ -95,11 +105,20 @@ Full Stack Developer with **1 year of production experience** bridging scalable 
 
 ## Experience
 
+### Web Developer — Casubhoy Enterprises
+`May 2026 – Present`
+- Sole developer for two live Shopify D2C stores ([phoneantics.com](https://phoneantics.com), [toyjoyantics.com](https://toyjoyantics.com)), owning theme development (Liquid, OS 2.0), SEO, tracking and catalog end to end.
+- Built a custom phone case designer in Liquid and JavaScript with live previews and per-model camera cutouts, increasing custom orders by 200%.
+- Technical SEO with JSON-LD schema, redirects and Core Web Vitals work, growing organic clicks by 70% in 4 months.
+- Set up and debugged GA4, Google Tag Manager, Meta Pixel + Conversions API and Google Merchant Center.
+- Restructured a 2,100+ product / 50,000+ variant catalog using Python scripts and bulk CSV imports.
+
 ### E-Commerce Associate — Lumina Datamatics
 `Feb 2025 – Mar 2026`
 - Processed and validated large volumes of product data, matching listings on Amazon with high accuracy.
 - Performed rigorous quality audits on processed datasets to maintain critical data integrity.
 - Collaborated with cross-functional teams and managed production workflows using internal tools.
+- Employee of the Month three times in a row.
 
 ---
 
@@ -115,6 +134,6 @@ Full Stack Developer with **1 year of production experience** bridging scalable 
 
 <div align="center">
 
-*Open to opportunities — feel free to explore my repositories or reach out via [email](mailto:singhkailash.sk9@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kailash-singh-725a10232/).*
+*Feel free to explore my repositories or reach out via [email](mailto:singhkailash.sk9@gmail.com) or [LinkedIn](https://www.linkedin.com/in/kailash-singh-725a10232/).*
 
 </div>
